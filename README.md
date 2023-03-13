@@ -1,6 +1,6 @@
 # xylophone
 
-A new Flutter project.
+A Flutter project allows you to play or create your own music form the xylophone
 
 ## Getting Started
 
